@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.pluck(${1:list}, ${2:propertyName})$0
+]]></content>
+	<tabTrigger>_.pluck</tabTrigger>
+	<scope>source.js</scope>
+	<description>(list, propertyName)</description>
+</snippet>

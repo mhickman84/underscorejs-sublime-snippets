@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-_.map(${1:list}, ${2:iterator}${3:, ${4:[context]}})$0
+_.reject(${1:list}, ${2:iterator}${3:, ${4:[context]}})$0
 ]]></content>
-	<tabTrigger>_.map</tabTrigger>
+	<tabTrigger>_.reject</tabTrigger>
 	<scope>source.js</scope>
 	<description>(list, iterator, [context])</description>
 </snippet>

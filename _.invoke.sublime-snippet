@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.invoke(${1:list}, ${2:methodName}${3:, ${4:[*arguments]}})$0
+]]></content>
+	<tabTrigger>_.invoke</tabTrigger>
+	<scope>source.js</scope>
+	<description>(list, methodName, [*arguments])</description>
+</snippet>

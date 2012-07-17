@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.min(${1:list}${2:, ${3:[iterator]}${4:, ${5:[context]}}})$0
+]]></content>
+	<tabTrigger>_.min</tabTrigger>
+	<scope>source.js</scope>
+	<description>(list, [iterator], [context])</description>
+</snippet>
