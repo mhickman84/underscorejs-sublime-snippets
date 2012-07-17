@@ -1,4 +1,3 @@
-underscorejs-sublime-snippets
-=============================
+# Underscore.js snippets for Sublime Text
 
-Underscore.js snippets for Sublime Text
+Working in progress

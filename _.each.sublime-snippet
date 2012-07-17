@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.each(${1:list}, ${2:iterator}${3:, ${4:context}})$0
+]]></content>
+	<tabTrigger>_.each</tabTrigger>
+	<scope>source.js</scope>
+	<description>(list, iterator, [context])</description>
+</snippet>
