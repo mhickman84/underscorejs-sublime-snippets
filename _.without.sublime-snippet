@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.without(${1:array}${2:, ${3:[*values]}})$0
+]]></content>
+	<tabTrigger>_.without</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array, [*values])</description>
+</snippet>

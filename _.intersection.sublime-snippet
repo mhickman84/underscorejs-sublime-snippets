@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.intersection(${1:*arrays})$0
+]]></content>
+	<tabTrigger>_.intersection</tabTrigger>
+	<scope>source.js</scope>
+	<description>(*arrays)</description>
+</snippet>

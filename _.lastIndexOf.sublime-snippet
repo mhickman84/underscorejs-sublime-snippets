@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.lastIndexOf(${1:array}, ${2:value})$0
+]]></content>
+	<tabTrigger>_.lastIndexOf</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array, value)</description>
+</snippet>

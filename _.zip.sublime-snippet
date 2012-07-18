@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.zip(${1:*arrays})$0
+]]></content>
+	<tabTrigger>_.zip</tabTrigger>
+	<scope>source.js</scope>
+	<description>(*arrays)</description>
+</snippet>

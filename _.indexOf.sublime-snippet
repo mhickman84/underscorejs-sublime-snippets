@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.indexOf(${1:array}, ${2:value}${3:, ${4:[isSorted]}})$0
+]]></content>
+	<tabTrigger>_.indexOf</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array, value, [isSorted])</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.difference(${1:array}, ${2:*others})$0
+]]></content>
+	<tabTrigger>_.difference</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array, [*others])</description>
+</snippet>

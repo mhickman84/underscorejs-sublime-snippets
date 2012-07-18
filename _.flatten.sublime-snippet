@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.flatten(${1:array}${2:, ${3:[shallow]}})$0
+]]></content>
+	<tabTrigger>_.flatten</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array, [shallow])</description>
+</snippet>

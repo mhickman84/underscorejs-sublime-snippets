@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.compact(${1:array})$0
+]]></content>
+	<tabTrigger>_.compact</tabTrigger>
+	<scope>source.js</scope>
+	<description>(array)</description>
+</snippet>
