@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.once(${1:function})$0
+]]></content>
+	<tabTrigger>_.once</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function)</description>
+</snippet>

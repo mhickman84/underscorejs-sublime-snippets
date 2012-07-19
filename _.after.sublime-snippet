@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.after(${1:count}, ${2:function})$0
+]]></content>
+	<tabTrigger>_.after</tabTrigger>
+	<scope>source.js</scope>
+	<description>(count, function)</description>
+</snippet>

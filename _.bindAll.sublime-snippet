@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.bindAll(${1:object}, ${2:, ${3:[*methdoNames]}})$0
+]]></content>
+	<tabTrigger>_.bindAll</tabTrigger>
+	<scope>source.js</scope>
+	<description>(object, [*methodNames])</description>
+</snippet>

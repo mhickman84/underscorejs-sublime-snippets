@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.compose(${1:*functions})$0
+]]></content>
+	<tabTrigger>_.compose</tabTrigger>
+	<scope>source.js</scope>
+	<description>(*functions)</description>
+</snippet>

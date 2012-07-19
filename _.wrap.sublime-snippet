@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.wrap(${1:function}, ${2:wrapper})$0
+]]></content>
+	<tabTrigger>_.wrap</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function, wrapper)</description>
+</snippet>

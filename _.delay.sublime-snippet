@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.delay(${1:function}, ${2:wait}${3:, ${4:[*arguments]}})$0
+]]></content>
+	<tabTrigger>_.delay</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function, wait, [*arguments])</description>
+</snippet>

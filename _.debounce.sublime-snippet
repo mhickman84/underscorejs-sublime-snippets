@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.debounce(${1:function}, ${2:wait}${3:, ${4:[immediate]}})$0
+]]></content>
+	<tabTrigger>_.debounce</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function, wait, [immediate])</description>
+</snippet>

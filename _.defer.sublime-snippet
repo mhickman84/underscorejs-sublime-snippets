@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.defer(${1:function}${2:, ${3:[*arguments]}})$0
+]]></content>
+	<tabTrigger>_.defer</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function, [*arguments])</description>
+</snippet>

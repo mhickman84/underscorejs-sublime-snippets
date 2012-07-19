@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+_.throttle(${1:function}, ${3:wait})$0
+]]></content>
+	<tabTrigger>_.throttle</tabTrigger>
+	<scope>source.js</scope>
+	<description>(function, wait)</description>
+</snippet>
