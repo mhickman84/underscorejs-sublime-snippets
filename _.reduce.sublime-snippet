@@ -3,6 +3,6 @@
 _.reduce(${1:list}, ${2:iterator}, ${3:memo}${4:, ${5:[context]}})$0
 ]]></content>
 	<tabTrigger>_.reduce</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(list, iterator, memo, [context])</description>
 </snippet>

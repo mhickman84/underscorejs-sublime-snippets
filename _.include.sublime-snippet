@@ -3,6 +3,6 @@
 _.include(${1:list}, ${2:value})$0
 ]]></content>
 	<tabTrigger>_.include</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(list, value)</description>
 </snippet>

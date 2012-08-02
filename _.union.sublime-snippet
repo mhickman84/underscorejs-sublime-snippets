@@ -3,6 +3,6 @@
 _.union(${1:*arrays})$0
 ]]></content>
 	<tabTrigger>_.union</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(*arrays)</description>
 </snippet>

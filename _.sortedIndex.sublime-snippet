@@ -3,6 +3,6 @@
 _.sortedIndex(${1:list}, ${2:value}${3:, ${4:[iterator]}})$0
 ]]></content>
 	<tabTrigger>_.sortedIndex</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(list, value, [iterator])</description>
 </snippet>

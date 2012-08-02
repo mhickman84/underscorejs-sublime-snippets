@@ -3,6 +3,6 @@
 _.uniq(${1:array}${2:${3:, ${4:[isSorted]}}${5:, ${6:[iterator]}}})$0
 ]]></content>
 	<tabTrigger>_.uniq</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(array, [isSorted], [iterator])</description>
 </snippet>

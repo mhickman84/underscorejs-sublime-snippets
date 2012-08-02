@@ -3,6 +3,6 @@
 _.initial(${1:array}${2:, ${3: [n]}})$0
 ]]></content>
 	<tabTrigger>_.initial</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(array, [n])</description>
 </snippet>

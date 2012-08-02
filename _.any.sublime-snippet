@@ -3,6 +3,6 @@
 _.any(${1:list}${2:, ${3:[iterator]}${4:, ${5:[context]}}})$0
 ]]></content>
 	<tabTrigger>_.any</tabTrigger>
-	<scope>source.js</scope>
+	<scope>source.coffee</scope>
 	<description>(list, [iterator], [context])</description>
 </snippet>
